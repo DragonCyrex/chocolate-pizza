@@ -41,7 +41,6 @@ header ul {
 }
 
 header ul li {
-/*     display: inline-block; */
     float: left;
     margin: 0 1px;
 }
@@ -125,12 +124,6 @@ main p {
 }
 
 .recipe {
-/*     height: 180px;
-    background: url(../img/list-bg.png) 100%;
-    background-position: left;
-    padding: 30px 80px 30px 80px;
-    background-repeat: no-repeat;
-    background-size: 100%; */
     letter-spacing: 0.1em;
     font-family: "Patrick Hand", cursive;
     color: rgb(102, 106, 66);
@@ -144,9 +137,6 @@ main p {
     margin: 0;
 }
 .recipe ul li {
-/*     line-height: 32px;
-    list-style-type: none;
-    color: #6c6753; */
     float: left;
     width: 40%;
     font-size: 1.3em;
@@ -190,9 +180,6 @@ main hr {
     line-height: 32px;
 }
 
-.share-recipe .float-right {
-}
-
 .share-recipe a {
     color: #fff;
     position: relative;
@@ -211,7 +198,6 @@ footer {
 footer p {
     margin: 0;
     color: #888888;
-/*     font-family: 'Tajawal', sans-serif; */
 
 }
 footer img {
